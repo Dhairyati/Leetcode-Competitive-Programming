@@ -11,6 +11,8 @@ Space Complexity: O(1)
 class Solution {
 public:
     double angleClock(int hour, int minutes) {
+
+//Took float values for accurate calculation
         float hr=hour;
         float mm=minutes;
         if(hr>=12){
