@@ -1,4 +1,5 @@
 /*
+Date solved: 27-06-2025
 Problem: 172. Factorial Trailing Zeroes
 Solution Language: C++
 Time Complexity: O(log₅ n)
