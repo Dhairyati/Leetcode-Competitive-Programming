@@ -1,0 +1,7 @@
+/*
+Date solved: 16-09-2025
+Problem: 2197. Replace Non-Coprime Numbers in Array
+Solution Language: C++
+Time Complexity: O(d) where d<=5
+Space Complexity: O(d) where d<=5
+*/
