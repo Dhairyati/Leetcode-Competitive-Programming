@@ -2,8 +2,8 @@
 Date solved: 19-09-2025
 Problem: 3484. Design Spreadsheet
 Solution Language: C++
-Time Complexity: O(1)
-Space Complexity: O(1)
+Time Complexity: 
+Space Complexity: 
 */
 class Spreadsheet {
 private:
