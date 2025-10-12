@@ -1,5 +1,7 @@
 /*
-735. Asteroid Collision
+Problem: 735. Asteroid Collision
+TC: O(n)
+SC: O(n)
 */
 
 class Solution {
